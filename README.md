@@ -5,3 +5,5 @@ including HOWTOs, getting started guides, build instructions and downloading bin
 [http://www.infinispan.org](http://www.infinispan.org "The Infinispan project page")
 
 *The Infinispan project team*
+
+*****
